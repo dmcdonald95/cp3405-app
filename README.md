@@ -1,7 +1,7 @@
 # flutter_school_app
 
 A new Flutter project.
-
+Test tickles
 ## Getting Started
 
 This project is a starting point for a Flutter application.
